@@ -426,7 +426,7 @@ body {
   display: flex;
   gap: 30px;
   margin-top: 60px;
-  margin-left: 85px;
+  margin-left: 50px;
   height: 600px;
   width: 1500px;
 }
@@ -550,7 +550,7 @@ body {
   display: flex;
   gap: 30px;
   margin-top: 60px;
-  margin-left: 85px;
+  margin-left: 50px;
   height: 600px;
   width: 1500px;
   position: absolute;
@@ -606,6 +606,7 @@ body {
   color: transparent;
   color: black;
 }
+
 .heart-head {
   margin-top: 600px;
   margin-left: 440px;
@@ -622,13 +623,14 @@ body {
   display: flex;
   justify-content: space-evenly;
   gap: 30px;
-  margin-left: 70px;
+  margin-left: 50px;
   margin-top: 50px;
 }
+
 .premium-head {
   font-weight: 900;
   margin-top: 20px;
-  margin-left: 80px;
+  margin-left: 50px;
   cursor: pointer;
 }
 
@@ -652,7 +654,7 @@ body {
   height: 200px;
   width: 200px;
   margin-top: 800px;
-  margin-left: 85px;
+  margin-left: 50px;
 }
 .choco-name {
   margin-top: -150px;
@@ -709,6 +711,7 @@ body {
 }
 .big-div-main {
   display: flex;
+  margin-left: -40px;
 }
 .content-div {
   width: 510px;
